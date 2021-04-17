@@ -15,6 +15,8 @@
 
 Y podemos ver que hay en [esta página de aqui](otra.md)
 
+Y tenemos una [presentación de jupyter](intro-jupyter.html)
+
 
 
 
