@@ -1,15 +1,15 @@
-# PÃgina principal de la organizaciÃn
+# PÃ¡gina principal de la organizaciÃ³n
 
 ## Este es un header h2
 
 ### Y este un h3
 
-1. Las listas son muy fÃciles
-2. solo asÃ
+1. Las listas son muy fÃ¡ciles
+2. solo asÃ­
 4. Hasta cuando te saltas
 
-| Una cita citable
-| con cosas que poner
-| solo para ver
+> Una cita citable
+> con cosas que poner
+> solo para ver
 
 
